@@ -3,7 +3,7 @@ title: "Begin Something New for Different Results"
 date: 2024-02-02T13:32:43+07:00
 draft: false
 categories: ['Personal Experience']
-description: "All the big thing will begin small step!"
+description: "All the big things begin with a small step!"
 ---
 
 - [Introduction](#introduction)
