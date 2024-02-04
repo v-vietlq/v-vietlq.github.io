@@ -17,12 +17,12 @@ toc = true
 # generate configurations from https://giscus.app/
 [giscus]
   enabled = true
-  repo = "tomowang/hugo-theme-tailwind"
-  repoID = "R_kgDOKjVJHA"
+  repo = "v-vietlq4/v-vietlq4.github.io"
+  repoID = "R_kgDOHKi_mg"
   category = "Announcements"
-  categoryID = "DIC_kwDOKjVJHM4CafqS"
+  categoryID = "DIC_kwDOHKi_ms4Cc79f"
   mapping = "pathname"
-  strict = "0"
+  strict = "1"
   reactionsEnabled = "1"
   emitMetadata = "0"
   inputPosition = "bottom"
