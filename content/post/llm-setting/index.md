@@ -138,15 +138,15 @@ The sequence’s probability is then: $0.2 * 0.1 * 0.3 = 0.006$
 
 Mathematically, this can be denoted as follows:
 
-$$
+$
 p(Iloveyou) = p(I) * p(love|I) * p(you| I, love)
-$$
+$
 
 Remember that it’s easier to work with probabilities on a log scale. The logarithm of a product is equal to a sum of logarithms, so the logprob of a sequence of all tokens in the sequence.
 
-$$
+$
 logprob(Iloveyou) = logprob(I) + logprob(love|I) + logprob(you| I, love)
-$$
+$
 
 ![Untitled](./images/Untitled%202.png)
 
