@@ -19,7 +19,6 @@ tags: ['Prompt Engineering']
 - [Test Time Sampling](#test-time-sampling)
 - [Ref](#ref)
 
-
 # LLM Settings
 
 When designing prompts, We have few configs like Temperature, Top P, Max Length, Stop Sequences, Frequency Penalty, Presence Penalty. Below are the common setting and the explanation of them.
@@ -35,7 +34,6 @@ To understand how temperature works, let’s take a step back to see how a model
 ![Untitled](./images/Untitled.png)
 
 While larger logits correspond to higher probabilities, the logits don’t represent the probabilities. Logits don’t sum up to one. Logits can even be negative. while probabilities have to be no-negative. To convert logits to probabilities, a softmax layer is often used. Let’s say the model has a vocab of N and the logit $[x_1, x_2,...,x_n]$. The probability for the $i^{th}$ token, $p_i$, is computed as follows:
-
 
 $$
 P_i = softmax(x_i) = \frac{e^{x_i}}{\sum_{j}e^{x_j}}
@@ -154,5 +152,5 @@ To avoid the biasing towards short sequences, we use the average logprob by divi
 
 # Ref
 
-- [https://huyenchip.com/2024/01/16/sampling.html](https://huyenchip.com/2024/01/16/sampling.html)
-- [https://www.promptingguide.ai/introduction/settings](https://www.promptingguide.ai/introduction/settings)
+* [https://huyenchip.com/2024/01/16/sampling.html](https://huyenchip.com/2024/01/16/sampling.html)
+* [https://www.promptingguide.ai/introduction/settings](https://www.promptingguide.ai/introduction/settings)
