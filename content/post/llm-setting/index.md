@@ -152,5 +152,6 @@ To avoid the biasing towards short sequences, we use the average logprob by divi
 
 # Ref
 
-* [https://huyenchip.com/2024/01/16/sampling.html](https://huyenchip.com/2024/01/16/sampling.html)
-* [https://www.promptingguide.ai/introduction/settings](https://www.promptingguide.ai/introduction/settings)
+[https://huyenchip.com/2024/01/16/sampling.html](https://huyenchip.com/2024/01/16/sampling.html)
+
+[https://www.promptingguide.ai/introduction/settings](https://www.promptingguide.ai/introduction/settings)
