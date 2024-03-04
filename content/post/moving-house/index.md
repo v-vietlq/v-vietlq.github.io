@@ -25,11 +25,11 @@ Thế là hôm nay đã được một tuần tôi chuyển nhà rồi. Tuần r
 
 ở đây có một không gian đủ rộng để tôi có thể setup được một nơi làm việc thoải mái nhất có thể, tôi decor lại chỗ làm việc của mình thật gọn gàng và để thêm 1 bình cây xanh trên bàn để những lúc nhìn màn hình lâu quá thì có thể nghía qua ngắm cây :))).  bên cạnh đó là một cái kệ đọc sách của tôi. Nhìn quá là trống. Mục tiêu năm nay là đọc nhiều sách hơn đủ thể loại hơn trong đó có những thể loại mà tôi đang quan tâm là về tâm lí học, về văn học, về lịch sử. 
 
-về tâm lí học, tôi thấy có cuốn **Tâm Lí Học Nhận Thức**, **Lý Thuyết Trò Chơi**. Lí do tôi muốn đọc thể loại này là vì tôi thấy mình chưa hiểu về tâm lí bản thân lắm. Đọc thể tôi có thể mở mang thêm về kiến thức tâm lí, về EQ để tốt hơn cho sau này. 
+Về tâm lí học, tôi thấy có cuốn **Tâm Lí Học Nhận Thức**, **Lý Thuyết Trò Chơi**. Lí do tôi muốn đọc thể loại này là vì tôi thấy mình chưa hiểu về tâm lí bản thân lắm. Đọc thể loại này tôi có thể mở mang thêm về kiến thức tâm lí, về EQ để tốt hơn cho sau này. 
 
-về văn học, tôi sẽ đọc cuốn **Không Gia Đình**, một cuốn sách khá là nổi tiếng nhưng tôi lại chưa đọc :))). Đọc lại cuốn **Nhà Giả Kim** để có thể đắm chìm vào cậu bé chăn cừu đi tìm lẽ sống cũng như hành trình của cậu, làm tôi thấy bản thân mình từ những ngày đặt bước chân đầu tiên và tôi vẫn sẽ giữ tiếp ngọn lửa ấy để đi tiếp trên chặng đường về sau này. 
+Về văn học, tôi sẽ đọc cuốn **Không Gia Đình**, một cuốn sách khá là nổi tiếng nhưng tôi lại chưa đọc :))). Đọc lại cuốn **Nhà Giả Kim** để có thể đắm chìm vào cậu bé chăn cừu đi tìm lẽ sống cũng như hành trình của cậu, làm tôi thấy bản thân mình từ những ngày đặt bước chân đầu tiên và tôi vẫn sẽ giữ tiếp ngọn lửa ấy để đi tiếp trên chặng đường về sau này. 
 
-về lịch sử, tôi muốn đọc cuốn **Tam Quốc Chí**, thật sự thì tôi rất thích về lịch sử Trung Quốc, mặc dù chỉ coi phim từ thời **Tần Thuỷ Hoàng** đến **Hán Sở Tranh Hùng** và mãi về sau là **Tam Quốc**. Nó cho tôi thấy được chiến lược, các nhân vật tầm cỡ của lịch sử, cách họ tư duy để giải quyết một vấn đề. 
+Về lịch sử, tôi muốn đọc cuốn **Tam Quốc Chí**, thật sự thì tôi rất thích về lịch sử Trung Quốc, mặc dù chỉ coi phim từ thời **Tần Thuỷ Hoàng** đến **Hán Sở Tranh Hùng** và mãi về sau là **Tam Quốc**. Nó cho tôi thấy được chiến lược, các nhân vật tầm cỡ của lịch sử, cách họ tư duy để giải quyết một vấn đề. 
 
 ## Góc chill 
 
