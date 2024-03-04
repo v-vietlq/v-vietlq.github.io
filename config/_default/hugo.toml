@@ -48,3 +48,8 @@ series = "series"
 [params]
   math = true
   
+[imaging]
+  bgColor = '#ffffff'
+  hint = 'photo'
+  quality = 100
+  resampleFilter = 'box'
