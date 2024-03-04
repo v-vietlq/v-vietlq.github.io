@@ -28,6 +28,13 @@ toc = true
   inputPosition = "bottom"
   lang = "en"
 
+[facebook]
+    enabled = true
+    width = "100%"
+    numPosts = 10
+    appId = ""
+    languageCode = ""
+
 [social_media]
   [[social_media.items]]
     enabled = true

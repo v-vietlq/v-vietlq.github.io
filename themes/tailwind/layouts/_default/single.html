@@ -27,7 +27,21 @@
       {{ .Content | safeHTML }}
     </article>
 
-    {{ partial "comments.html" . }}
+    <nav class="nav">
+      <button id="fb-btn" class="nav-item is-active" active-color="#ACD6FF">Facebook</button>
+      <button id="disqus-btn" class="nav-item" active-color="#ACD6FF">Disqus</button>
+      <span class="nav-indicator"></span>
+    </nav>
+
+
+    <div id="disqus-comments" class="comments markdown" style="display: none;">
+      {{ partial "comments.html" . }}
+    </div>
+
+    <div id="facebook-comments" class="fb-comments" style="display: block;">
+      {{ partial "fb_comment.html" . }}
+    </div>
+
   </div>
 </div>
 {{ end }}
