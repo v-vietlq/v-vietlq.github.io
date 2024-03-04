@@ -17,7 +17,7 @@ toc = true
 # generate configurations from https://giscus.app/
 [giscus]
   enabled = true
-  repo = "v-vietlq4/v-vietlq4.github.io"
+  repo = "v-vietlq/v-vietlq.github.io"
   repoID = "R_kgDOHKi_mg"
   category = "Announcements"
   categoryID = "DIC_kwDOHKi_ms4Cc79f"
