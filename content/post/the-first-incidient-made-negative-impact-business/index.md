@@ -30,7 +30,7 @@ I'm writing it down because the technical lesson is useful, but the *behavioral*
 
 ## What I shipped
 
-I deployed the face recognition service. That's critical service in our company in production. All of trafic should be passed here before doing anything else.
+I deployed the face recognition service. That's critical service in our company in production. All of traffic should be passed here before doing anything else.
 
 After 6 month release, everything work correctly. We just mantained and do some improvement and I'm also the person in charge for this.
 
